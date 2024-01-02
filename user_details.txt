@@ -1,0 +1,3 @@
+reddy, bangalore, 00000000, 25, male
+virat, bangalore, 00900000, 23, male
+virat1, bangalore, 9999999999, 32, male
